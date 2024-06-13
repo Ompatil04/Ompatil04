@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Om Nitin Patil</h1>
+<h1 align="center">Hey 👋, Om Nitin Patil here</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align ="left" alt="Coding" height="200" widht="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align ="left" alt="Coding" height="200" widht="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 <br><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ompatil04&label=Profile%20views&color=0e75b6&style=flat" alt="ompatil04" /> </p>
 

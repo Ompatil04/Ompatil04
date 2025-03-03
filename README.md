@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ompatil04" alt="ompatil04" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Android , Kotlin**
 
-- 💬 Ask me about **Android , Kotlin**
+- 💬 Ask me about **React , Native**
 
 - 📫 How to reach me **patilom04022002@gmail.com**
 
